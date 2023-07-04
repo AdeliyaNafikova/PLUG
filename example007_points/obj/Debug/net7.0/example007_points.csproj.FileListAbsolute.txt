@@ -1,0 +1,15 @@
+D:\Learning IT\C#\PLUG\example007_points\bin\Debug\net7.0\example007_points.exe
+D:\Learning IT\C#\PLUG\example007_points\bin\Debug\net7.0\example007_points.deps.json
+D:\Learning IT\C#\PLUG\example007_points\bin\Debug\net7.0\example007_points.runtimeconfig.json
+D:\Learning IT\C#\PLUG\example007_points\bin\Debug\net7.0\example007_points.dll
+D:\Learning IT\C#\PLUG\example007_points\bin\Debug\net7.0\example007_points.pdb
+D:\Learning IT\C#\PLUG\example007_points\obj\Debug\net7.0\example007_points.csproj.AssemblyReference.cache
+D:\Learning IT\C#\PLUG\example007_points\obj\Debug\net7.0\example007_points.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning IT\C#\PLUG\example007_points\obj\Debug\net7.0\example007_points.AssemblyInfoInputs.cache
+D:\Learning IT\C#\PLUG\example007_points\obj\Debug\net7.0\example007_points.AssemblyInfo.cs
+D:\Learning IT\C#\PLUG\example007_points\obj\Debug\net7.0\example007_points.csproj.CoreCompileInputs.cache
+D:\Learning IT\C#\PLUG\example007_points\obj\Debug\net7.0\example007_points.dll
+D:\Learning IT\C#\PLUG\example007_points\obj\Debug\net7.0\refint\example007_points.dll
+D:\Learning IT\C#\PLUG\example007_points\obj\Debug\net7.0\example007_points.pdb
+D:\Learning IT\C#\PLUG\example007_points\obj\Debug\net7.0\example007_points.genruntimeconfig.cache
+D:\Learning IT\C#\PLUG\example007_points\obj\Debug\net7.0\ref\example007_points.dll
