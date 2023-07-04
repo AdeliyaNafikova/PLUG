@@ -1,0 +1,15 @@
+D:\Learning IT\C#\PLUG\example006_base\bin\Debug\net7.0\example006_base.exe
+D:\Learning IT\C#\PLUG\example006_base\bin\Debug\net7.0\example006_base.deps.json
+D:\Learning IT\C#\PLUG\example006_base\bin\Debug\net7.0\example006_base.runtimeconfig.json
+D:\Learning IT\C#\PLUG\example006_base\bin\Debug\net7.0\example006_base.dll
+D:\Learning IT\C#\PLUG\example006_base\bin\Debug\net7.0\example006_base.pdb
+D:\Learning IT\C#\PLUG\example006_base\obj\Debug\net7.0\example006_base.csproj.AssemblyReference.cache
+D:\Learning IT\C#\PLUG\example006_base\obj\Debug\net7.0\example006_base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning IT\C#\PLUG\example006_base\obj\Debug\net7.0\example006_base.AssemblyInfoInputs.cache
+D:\Learning IT\C#\PLUG\example006_base\obj\Debug\net7.0\example006_base.AssemblyInfo.cs
+D:\Learning IT\C#\PLUG\example006_base\obj\Debug\net7.0\example006_base.csproj.CoreCompileInputs.cache
+D:\Learning IT\C#\PLUG\example006_base\obj\Debug\net7.0\example006_base.dll
+D:\Learning IT\C#\PLUG\example006_base\obj\Debug\net7.0\refint\example006_base.dll
+D:\Learning IT\C#\PLUG\example006_base\obj\Debug\net7.0\example006_base.pdb
+D:\Learning IT\C#\PLUG\example006_base\obj\Debug\net7.0\example006_base.genruntimeconfig.cache
+D:\Learning IT\C#\PLUG\example006_base\obj\Debug\net7.0\ref\example006_base.dll
