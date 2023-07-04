@@ -1,0 +1,15 @@
+D:\Learning IT\C#\PLUG\example005_ifelse\bin\Debug\net7.0\example005_ifelse.exe
+D:\Learning IT\C#\PLUG\example005_ifelse\bin\Debug\net7.0\example005_ifelse.deps.json
+D:\Learning IT\C#\PLUG\example005_ifelse\bin\Debug\net7.0\example005_ifelse.runtimeconfig.json
+D:\Learning IT\C#\PLUG\example005_ifelse\bin\Debug\net7.0\example005_ifelse.dll
+D:\Learning IT\C#\PLUG\example005_ifelse\bin\Debug\net7.0\example005_ifelse.pdb
+D:\Learning IT\C#\PLUG\example005_ifelse\obj\Debug\net7.0\example005_ifelse.csproj.AssemblyReference.cache
+D:\Learning IT\C#\PLUG\example005_ifelse\obj\Debug\net7.0\example005_ifelse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning IT\C#\PLUG\example005_ifelse\obj\Debug\net7.0\example005_ifelse.AssemblyInfoInputs.cache
+D:\Learning IT\C#\PLUG\example005_ifelse\obj\Debug\net7.0\example005_ifelse.AssemblyInfo.cs
+D:\Learning IT\C#\PLUG\example005_ifelse\obj\Debug\net7.0\example005_ifelse.csproj.CoreCompileInputs.cache
+D:\Learning IT\C#\PLUG\example005_ifelse\obj\Debug\net7.0\example005_ifelse.dll
+D:\Learning IT\C#\PLUG\example005_ifelse\obj\Debug\net7.0\refint\example005_ifelse.dll
+D:\Learning IT\C#\PLUG\example005_ifelse\obj\Debug\net7.0\example005_ifelse.pdb
+D:\Learning IT\C#\PLUG\example005_ifelse\obj\Debug\net7.0\example005_ifelse.genruntimeconfig.cache
+D:\Learning IT\C#\PLUG\example005_ifelse\obj\Debug\net7.0\ref\example005_ifelse.dll
